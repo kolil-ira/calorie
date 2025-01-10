@@ -82,7 +82,7 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 #     }
 # }
 DATABASES={
-    'default':dj_database_url.parse("postgresql://new_project_y2ds_user:BP0Q6c9crEpIs0xcoGpJ1OOWOoY14gRb@dpg-ctuco3lumphs73emcc70-a.oregon-postgres.render.com/new_project_y2ds")
+    'default':dj_database_url.parse("postgresql://database_db_zi4d_user:17bSmzDzkJG13xrxPR4SM73eFcZhSBB9@dpg-cu0eh3lds78s73dcjepg-a.oregon-postgres.render.com/database_db_zi4d")
 }
 
 # Password validation
